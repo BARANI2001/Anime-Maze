@@ -1,5 +1,5 @@
 # Anime-Maze
-KS smart solutions - Web developer task
+KS smart solutions - Web developer(Full stack developer) task
 
 To Execute the code:
 -
